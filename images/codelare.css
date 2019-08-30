@@ -1,0 +1,351 @@
+.options a{
+
+    position: relative;
+    top: 25px;
+    padding: 15px;
+    left: 150px;
+    color: #aad3e4;
+    font-size: 20px;
+
+}
+
+#color a{
+
+    color: white;
+}
+
+.boxes .box1 {
+
+    height: auto;
+    width: 280px;
+}
+
+.boxes .box1 a {
+   
+    display:block;
+    height: 100%;
+    width: 100%;
+    background-color: #f3f9ff;
+    
+}
+
+.box1 img {
+
+    position: relative;
+    top: 50px;
+    left: 120px;
+}
+
+.font h2 {
+
+   position: relative;
+   bottom: 180px;
+    left: 110px;
+    
+}
+
+.font p {
+
+    position: relative;
+    bottom: 180px;
+    left: 90px;
+    font-size: 18px;
+    font-family: Bell MT;
+}
+
+.boxes .box1 a:hover {
+display: block;
+    background-color:#2ab3d8;
+}
+
+.boxes .box2 a:hover {
+    display: block;
+    background-color: #2ab3d8;
+}
+#right {
+
+    float: right;
+    color: blue;
+}
+
+.font1 h2 {
+
+    position: relative;
+    bottom: 180px;
+    left: 60px;
+}
+
+.font1 p {
+
+    position: relative;
+    bottom: 180px;
+    left: 60px;
+    font-size: 18px;
+    font-family: Bell MT;
+}
+
+.font2 h2 {
+
+    position: relative;
+    bottom: 180px;
+    left: 60px;
+}
+
+.font2 p {
+
+  position: relative;
+  bottom: 180px;
+  left: 60px;
+  font-size: 18px;
+  font-family: Bell MT;
+}
+
+.boxes box2 {
+
+    height: 320px;
+    width: 300px;
+
+}
+
+.boxes .box2 a {
+   
+    display:block;
+    height: 100%;
+    width: 100%;
+    background-color: #f3f9ff;
+    
+}
+
+.box2  img {
+
+    position: relative;
+    top: 20px;
+    left: 120px;
+}
+
+.font3 h2 {
+
+    position: relative;
+    bottom: 170px;
+    left: 60px;
+
+
+}
+
+.font3 p {
+
+    position: relative;
+    bottom: 170px;
+    left: 60px;
+    font-size: 18px;
+    font-family: Bell MT;
+}
+
+.boxes box2 {
+
+    height: 320px;
+    width: 300px;
+
+}
+
+.boxes .box2 a {
+   
+    display:block;
+    height: 100%;
+    width: 100%;
+    background-color: #f3f9ff;
+    
+}
+
+.font4 h2 {
+
+    position: relative;
+    bottom: 170px;
+    left: 60px;
+
+
+}
+
+.font4 p {
+
+    position: relative;
+    bottom: 170px;
+    left: 60px;
+    font-size: 18px;
+    font-family: Bell MT;
+}
+
+.font5 h2 {
+
+    position: relative;
+    bottom: 190px;
+    left: 65px;
+
+
+}
+
+.font5 p {
+
+    position: relative;
+    bottom: 190px;
+    left: 60px;
+    font-size: 18px;
+    font-family: Bell MT;
+}
+
+
+.boxes .box3 {
+
+    height: 110px;
+    width: 310px;
+    background-color: #fff;
+    border-radius: 5px/5px;
+    box-shadow: 1px 1px 10px #aaa;
+    
+}
+
+.boxes1 .box3 {
+
+    height: 110px;
+    width: 310px;
+    background-color: #fff;
+    border-radius: 5px/5px;
+    box-shadow: 1px 1px 10px #aaa;
+
+}
+
+.boxes2 .box3 {
+
+    height: 110px;
+    width: 310px;
+    background-color: #fff;
+    border-radius: 5px/5px;
+    box-shadow: 1px 1px 10px #aaa;
+
+}
+
+.font6 img {
+
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+
+.font6 h4 {
+
+    position: relative;
+    bottom: 65px;
+    left: 80px;
+}
+
+.font6 p {
+
+    position: relative;
+    bottom: 65px;
+    left: 80px;
+    color: #777474;
+}
+
+.font7 img {
+
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+
+.font7 h4 {
+
+    position: relative;
+    bottom: 65px;
+    left: 80px;
+}
+
+.font7 p {
+
+    position: relative;
+    bottom: 65px;
+    left: 80px;
+    color: #777474;
+}
+
+.font8 img {
+
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+
+.font8 h4 {
+
+    position: relative;
+    bottom: 65px;
+    left: 80px;
+}
+
+.font8 p {
+
+    position: relative;
+    bottom: 65px;
+    left: 80px;
+    color: #777474;
+}
+
+
+#color h3 {
+    color: #212529;
+}
+
+#color1 h4 {
+
+    color: #443531;
+}
+
+#color2 h3 {
+
+    color: #212529;
+}
+
+#color3 h4 {
+    color: #443531;
+}
+
+#big p {
+
+  font-size: 17px;
+  color: #212529;  
+}
+
+#big1 p {
+
+    font-size: 17px;
+    color: #212529;
+}
+
+#big2 p {
+    font-size: 17px;
+    color: #212529;
+}
+
+#big3 p {
+    font-size: 17px;
+    color: #212529;
+ 
+}
+
+#big4 p {
+    font-size: 17px;
+    color:  #212529;
+}
+
+#big5 p {
+    
+    font-size: 17px;
+    color: #212529;
+}
+
+.design a {
+
+    padding: 10px;
+    color: #333333;
+    text-decoration: none;
+}
